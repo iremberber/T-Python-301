@@ -59,6 +59,13 @@ while sayi < 10: #Sayı 10'dan küçükse devam et
     
     
     
+def harf_say(x):
+    len(x)
+ 
+harf_say("Merhaba!")
 
-
-
+sayilar = [10,20,30]
+ 
+for i in sayilar:
+    if i > 20:
+        print(i/2)
